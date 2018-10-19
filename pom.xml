@@ -3,7 +3,7 @@
 	<groupId>at.fhv.teamxx</groupId>
 	<artifactId>mySampleProject</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0.4</version>
+	<version>1.0.6</version>
 	<name>mySampleProject</name>
 	<url>http://maven.apache.org</url>
 	<properties>
@@ -11,10 +11,10 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
 	<scm>
-		<connection>scm:git:git@github.com:moritz-w/mySampleProject.git</connection>
-		<developerConnection>scm:git:git@github.com:moritz-w/mySampleProject.git</developerConnection>
-		<url>git@github.com:moritz-w/mySampleProject.git</url>
-	        <tag>mySampleProject-1.0.4</tag>
+		<connection>scm:git:https://github.com/moritz-w/mySampleProject.git</connection>
+		<developerConnection>scm:git:https://github.com/moritz-w/mySampleProject.git</developerConnection>
+		<url>https://github.com/moritz-w/mySampleProject.git</url>
+	        <tag>mySampleProject-1.0.6</tag>
         </scm>
 	
 	<dependencies>
