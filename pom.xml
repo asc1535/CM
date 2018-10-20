@@ -1,6 +1,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>at.fhv.teamxx</groupId>
+	<groupId>at.fhv.team07</groupId>
 	<artifactId>mySampleProject</artifactId>
 	<packaging>jar</packaging>
 	<version>1.1.6-SNAPSHOT</version>
@@ -13,9 +13,9 @@
     		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
 	<scm>
-		<connection>scm:git:git@github.com:gtonic/mySampleProject.git</connection>
-		<developerConnection>scm:git:git@github.com:gtonic/mySampleProject.git</developerConnection>
-		<url>git@github.com:gtonic/mySampleProject.git</url>
+		<connection>scm:git:git@github.com:RaphaelBolter/mySampleProject.git</connection>
+		<developerConnection>scm:git:git@github.com:RaphaelBolter/mySampleProject.git</developerConnection>
+		<url>git@github.com:RaphaelBolter/mySampleProject.git</url>
 	        <tag>HEAD</tag>
         </scm>
 	<distributionManagement>
